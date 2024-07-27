@@ -1,0 +1,26 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_3446">
+			<rect id="guidance:eye" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<radialGradient gradientTransform="translate(19.2523 24.058) rotate(124.169) scale(26.6247 25.4474)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_3442_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4977EF"/>
+			<stop offset="1.000000" stop-color="#9B71DF"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(22.8972 23.1884) rotate(-118.216) scale(43.0917 44.3089)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_3442_1" gradientUnits="userSpaceOnUse">
+			<stop offset="0.310000" stop-color="#D76ADE" stop-opacity="0.501961"/>
+			<stop offset="0.825000" stop-color="#442873"/>
+		</radialGradient>
+	</defs>
+	<circle id="Ellipse 1" cx="20.000000" cy="20.000000" r="20.000000" fill="url(#paint_radial_3_3442_0)" fill-opacity="1.000000"/>
+	<circle id="Ellipse 1" cx="20.000000" cy="20.000000" r="20.000000" fill="url(#paint_radial_3_3442_1)" fill-opacity="0"/>
+	<rect id="guidance:eye" width="40.000000" height="40.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip3_3446)">
+		<path id="Vector" d="M14.64 8.6C16.33 7.87 18.15 7.49 20 7.49C21.84 7.49 23.66 7.87 25.35 8.6C27.04 9.34 28.56 10.41 29.82 11.75L34.16 16.66C35.83 18.33 37.87 19.99 40 19.99C37.87 19.99 35.83 21.66 34.16 23.33L29.82 28.24C28.56 29.58 27.04 30.65 25.35 31.39C23.66 32.12 21.84 32.5 20 32.5C18.15 32.5 16.33 32.12 14.64 31.39C12.95 30.65 11.43 29.58 10.17 28.24L5.83 23.33C4.16 21.66 2.12 19.99 0 19.99C2.12 19.99 4.16 18.33 5.83 16.66L10.17 11.75C11.43 10.41 12.95 9.34 14.64 8.6Z" stroke="#F7F7F7" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector" d="M15.83 20C15.83 18.89 16.27 17.83 17.05 17.05C17.83 16.27 18.89 15.83 20 15.83C21.1 15.83 22.16 16.27 22.94 17.05C23.72 17.83 24.16 18.89 24.16 20C24.16 21.1 23.72 22.16 22.94 22.94C22.16 23.72 21.1 24.16 20 24.16C18.89 24.16 17.83 23.72 17.05 22.94C16.27 22.16 15.83 21.1 15.83 20Z" fill="#F7F7F7" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M17.05 17.05C17.83 16.27 18.89 15.83 20 15.83C21.1 15.83 22.16 16.27 22.94 17.05C23.72 17.83 24.16 18.89 24.16 20C24.16 21.1 23.72 22.16 22.94 22.94C22.16 23.72 21.1 24.16 20 24.16C18.89 24.16 17.83 23.72 17.05 22.94C16.27 22.16 15.83 21.1 15.83 20C15.83 18.89 16.27 17.83 17.05 17.05Z" stroke="#F7F7F7" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</g>
+</svg>
